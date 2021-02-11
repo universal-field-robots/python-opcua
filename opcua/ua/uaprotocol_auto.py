@@ -3382,7 +3382,7 @@ class TimeZoneDataType(FrozenClass):
     """
 
     ua_types = [
-        ('Offset', 'Int16'),
+        ('Offset', 'Int32'),
         ('DaylightSavingInOffset', 'Boolean'),
                ]
 
